@@ -1,2 +1,0 @@
-# Bluechip Data Platform Engineering Implementation Guide
-A technical reference for developers, data engineers, platform engineers, ML engineers, and solution architects responsible for implementing, integrating, and maintaining BDP. The objective is to explain how every component works individually, how components interact with one another, and how they collectively deliver an integrated Enterprise Data and AI Platform.
